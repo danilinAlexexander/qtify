@@ -13,6 +13,10 @@ Add this line to your application's Gemfile:
 gem 'qtify'
 ```
 
+```ruby
+gem 'qtify'
+``` 
+
 And then execute:
 
     $ bundle
